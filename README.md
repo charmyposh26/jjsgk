@@ -1,9 +1,18 @@
 # 2024最新免费社工库排行(各位看官，麻烦给个star关注一下)<head>
-<title>Example.com homepage</title>
-<meta name="google-site-verification" content="<meta name="google-site-verification" Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />" />
-</head><meta name="google-site-verification" content="wLD25kTAX50Zn0rNhSQ-PqHYG88jpygHLVbhV1_sBWc" />
-**免费好用的在线社工库查询网站和 Telegram电报社工库机器人，可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证以及各种隐私数据是否泄露，看看你是否也处于数据外泄事件之中。**
+<html>
+  <head>
+    <title>Your Page Title</title>
+    <meta name="google-site-verification" content="your verification string">
+  </head>
+<body>
 <meta name="google-site-verification" content="wLD25kTAX50Zn0rNhSQ-PqHYG88jpygHLVbhV1_sBWc" />
+  <head>
+<title>Example.com homepage</title>
+<meta name="google-site-verification" content="......." />
+</head>
+  <meta name="google-site-verification" content="wLD25kTAX50Zn0rNhSQ-PqHYG88jpygHLVbhV1_sBWc" />
+**免费好用的在线社工库查询网站和 Telegram电报社工库机器人，可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证以及各种隐私数据是否泄露，看看你是否也处于数据外泄事件之中。**
+
 
 
 >🔔插个广告：因为大多数社工库都需要用到Telegram，大陆的朋友正常都上不了境外网站，给没法上外网的朋友推荐个很多人都在推荐的机场，每月几块钱，不限设备，外网想上就上👇👇👇👇👇
